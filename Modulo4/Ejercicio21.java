@@ -1,4 +1,4 @@
-public class CalculadoraSueldo {
+public class Ejercicio21 {
     public static void main(String[] args) {
         String categoria = "A";
         int antiguedad = 8;
