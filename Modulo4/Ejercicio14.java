@@ -1,4 +1,4 @@
-public class MedallasTorneo {
+public class Ejercicio14 {
     public static void main(String[] args) {
         int puesto = 2;
 
