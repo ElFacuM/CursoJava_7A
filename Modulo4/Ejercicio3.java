@@ -1,4 +1,4 @@
-public class DiasDelMes {
+public class Ejercicio3 {
     public static void main(String[] args) {
         String nombreMes = "noviembre";
 
