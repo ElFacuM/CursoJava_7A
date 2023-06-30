@@ -1,4 +1,4 @@
-public class MayorVariable {
+public class Ejercicio10 {
     public static void main(String[] args) {
         int variable1 = 10;
         int variable2 = 20;
