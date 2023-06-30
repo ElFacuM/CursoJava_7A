@@ -1,4 +1,4 @@
-public class PuestoTorneo {
+public class Ejercicio5 {
     public static void main(String[] args) {
         int puesto = 2;
 
