@@ -1,4 +1,4 @@
-public class EvaluacionesAlumno {
+public class Ejercicio17 {
     public static void main(String[] args) {
         int evaluacion1 = 8;
         int evaluacion2 = 6;
