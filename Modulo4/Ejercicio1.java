@@ -1,4 +1,4 @@
-public class EvaluacionesAlumno {
+public class Ejercicio1 {
     public static void main(String[] args) {
         double evaluacion1 = 6.5;
         double evaluacion2 = 7.8;
